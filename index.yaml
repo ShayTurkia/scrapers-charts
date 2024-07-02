@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  dailychart:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-07-02T10:26:49.706305349+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 69d327ba09824208140018e4c0717bafa44484ba246bd41cf3496a7e7bfb5865
+    name: dailychart
+    type: application
+    urls:
+    - https://ShayTurkia.github.io/scrapers-charts/dailychart-0.1.0.tgz
+    version: 0.1.0
+  livechart:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-07-02T10:26:49.706510898+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 1334a8c963bb32d8542da7ddbbba318a359cf916e98be62e8f44c396ad7bd95e
+    name: livechart
+    type: application
+    urls:
+    - https://ShayTurkia.github.io/scrapers-charts/livechart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-07-02T10:26:49.705941283+03:00"
